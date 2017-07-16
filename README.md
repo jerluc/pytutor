@@ -1,6 +1,6 @@
-# Welcome!
+# Welcome to PyTutor!
 
-## What is PyTutor?
+## What is this?
 
 PyTutor is a tutorial series meant for learning and teaching programming through Python.
 
