@@ -1,4 +1,4 @@
-# Chapter 0. Reading code
+# Learning to read
 
 One of the most important skills to practice as a programmer is your ability to read code.
 
